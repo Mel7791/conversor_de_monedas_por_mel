@@ -45,3 +45,7 @@ Define un registro para almacenar los datos obtenidos de la API, como la moneda 
 -Ingresar manualmente los códigos de monedas para conversiones personalizadas.
 3. Ingrese el monto que desea convertir y vea los resultados en pantalla.
 
+Creditos
+Autora: Mellena Mongush
+Contacto: mellenamongush@gmail.com
+
